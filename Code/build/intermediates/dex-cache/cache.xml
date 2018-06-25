@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp2\app\build\intermediates\exploded-aar\OpenDayApp2\framework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4de23fed5f613d0ff1dc3ec33aab23a7696d75b">
+        <dex dex="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp2\app\build\intermediates\pre-dexed\debug\classes-d318f13b04038ea225c2d2cb738b0fca0bdfb1f4.jar" />
+    </item>
+
+</items>
